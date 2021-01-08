@@ -27,7 +27,7 @@ Tools:-
 
 
 Lead  SOA Integration Developer
-1/2014 - 12/2015
+12/2013 - 12/2014
 
 1.	Responsible for   Estimation, Analysis, Design, development, Deployment and testing of SOA services
 2.	Work closely with Solution Architects, Providers and Infrastructure teams to define and implements solution for SOA services with architectural standards 
@@ -87,8 +87,7 @@ A Combined resume for Cognizant experience
      > Work with insurance industry standard like ACORD and IAA models
      > Work with vendor to resolve product related issues
 
-	
-    Technologies:
+Technologies:
 WAS 6.1, XML, FairIsac Blaze 6.5/6.7 RMA, .Net 2.0, WCF, IIS 6.0
 Tools:-
     Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005
@@ -111,9 +110,17 @@ Tech lead
 8.	Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
 
 As Technical Project Manager
-1. Reponsible for delivery of assinged projects using global delivery model
-2. Estimates work effort using estimation model. Helped in comming up with estimation model to asses the work effort quickly for RFP 
-3. Training and mentoring team members
+Work on  consultanting assignment on behalf of Infosys Technologies with following responsibilites
+1. Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
+2. Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
+3 Manage estimations, requirements gathering, Analysis, Design and development for the project (s).
+4. Worked on estimation model to asses the work effort quickly for RFP
+5. Review RFP / RFI from the customers’ perspective 
+6. Forecast and plan volumes, and resource requirements based on both volumes and technology
+7. Identify, assess and mitigate risks
+8  Liaise with the customer and handle the requirements, escalations, queries
+9. Facilitate knowledge sharing and capture within and across teams
+10 Manage resourcing requirements for the onsite team , interview candidate and onboard resources
 
   
 
