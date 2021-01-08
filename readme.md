@@ -1,4 +1,9 @@
 
+
+
+
+
+
 Integeration Solution Architect
 
 CSAA Insurance Group, a AAA Insurer
@@ -49,8 +54,6 @@ Technologies:
   WebSphere Application Server 7.X, WebSphere process server 7.x, XSLT, IBM DataPower , IBatis, Oracle Database 11g ,Spring 2.X, Regular Expression
 Tools:-
  WebSphere Integration Developer 7.X, SVN, XML Spy, Rational Application Developer, SOAP UI, 
-
-
 
 
 Solution Architect
@@ -123,6 +126,11 @@ Work on  consultanting assignment on behalf of Infosys Technologies with followi
 10 Manage resourcing requirements for the onsite team , interview candidate and onboard resources
 
   
+
+Certifications
+TBD
+
+
 
 GPA
  - 3.8 Master
