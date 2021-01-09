@@ -60,8 +60,8 @@ Tools:-
  Eclipse, GIT, XML Spy, SOAP UI, Postman, Confluence, Jira, Jenkins, 
 
 
-Lead  SOA Integration Developer
-CSAA Insurance Group, a AAA Insurer
+Lead  SOA Integration Developer \
+CSAA Insurance Group, a AAA Insurer \
 12/2013 - 12/2014
 
 1.	Responsible for   Estimation, Analysis, Design, development, Deployment and testing of SOA services
