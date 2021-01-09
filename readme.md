@@ -36,22 +36,22 @@ As one who believes in technology as an enabler to address business opportunitie
 
 Integeration Solution Architect
 CSAA Insurance Group, a AAA Insurer
-1/2015-current
+*1/2015-current*
 
-1.	Implementation lead for real-time integration for many small and big organization initiative  like Digital Transformation , commercial insurance  involving integration of all the major business system using API based and event driven integrations
-2.	Work with  engineering, product management, and operations teams to design and implement next-generation high availability, scalable and observable microsevices based integration leveraging cloud base technologies
-3.	Responsible for   Solutioning ,Estimation, Analysis, Design, development, Deployment and testing of enterprise APIs, SOAP web services,  event based integration with focus on security , observability, testability  and fault tolerance for multiple business partner and vendor
-4.	Assist team with requirement, design, and technology solution in implementing API testing automation ,governance tool - API Developer Portal, heath check suite, CI/CD pipeline and other DevOps aspect of building and deploying micros services
-5.	Design and implementation lead for development of event driven architecture to integrate application using event streaming and simple event processing
-6.	Design and implementation lead for development of API portal for easy discovery of API available in the enterprise using open API spec like Swagger and RAML
-7.	Lead MicroServices prototyping effort, identifying the effort needed, and scope and success criterion for it. Effort evaluated how the integration service can be implemented on cloud platform - OpenShift and Istio as service mesh with necessary integration pattern using open source integration framework  , auto scaling , logging , security and CI/CD
-8.	Regularly works on proof of concepts which  involves defining the evaluation criterion and working with internal stakeholders and vendor team to evaluate the product and present the findings to decision makers
-9.	Collaborate with Architecture team to drive multiple year API/miroservicesStrategy to validate the current SOA architecture, identify the gap and proposed strategic initiatives for next 3 year to align SOA to meet the business and technology driver and to be par with current industry trend. Assisted in Socializing the strategy with all stakeholders and creating proposal for  API Management 
-10.	Provide visibility and Monitoring for services through Splunk , Dynatrace and New Relic
-11.	Lead the migration effort for Integration service from legacy ESB WebSphere process server to modern integration platform (IBM Data Power)
-12.	Lead the deployment automation and smoke testing
-13: Design and lead implementation for re usable artifacts and frameworks for API and event driven integeration
-13.	Coordinate with all the stakeholders  to agree on integration solution and work with team to drive it to completion
+*	Implementation lead for real-time integration for many small and big organization initiative  like Digital Transformation , commercial insurance  involving integration of all the major business system using API based and event driven integrations
+*	Work with  engineering, product management, and operations teams to design and implement next-generation high availability, scalable and observable microsevices based integration leveraging cloud base technologies
+*	Responsible for   Solutioning ,Estimation, Analysis, Design, development, Deployment and testing of enterprise APIs, SOAP web services,  event based integration with focus on security , observability, testability  and fault tolerance for multiple business partner and vendor
+*	Assist team with requirement, design, and technology solution in implementing API testing automation ,governance tool - API Developer Portal, heath check suite, CI/CD pipeline and other DevOps aspect of building and deploying micros services
+*	Design and implementation lead for development of event driven architecture to integrate application using event streaming and simple event processing
+*	Design and implementation lead for development of API portal for easy discovery of API available in the enterprise using open API spec like Swagger and RAML
+*	Lead MicroServices prototyping effort, identifying the effort needed, and scope and success criterion for it. Effort evaluated how the integration service can be implemented on cloud platform - OpenShift and Istio as service mesh with necessary integration pattern using open source integration framework  , auto scaling , logging , security and CI/CD
+*	Regularly works on proof of concepts which  involves defining the evaluation criterion and working with internal stakeholders and vendor team to evaluate the product and present the findings to decision makers
+*	Collaborate with Architecture team to drive multiple year API/miroservicesStrategy to validate the current SOA architecture, identify the gap and proposed strategic initiatives for next 3 year to align SOA to meet the business and technology driver and to be par with current industry trend. Assisted in Socializing the strategy with all stakeholders and creating proposal for  API Management 
+*	Provide visibility and Monitoring for services through Splunk , Dynatrace and New Relic
+*	Lead the migration effort for Integration service from legacy ESB WebSphere process server to modern integration platform (IBM Data Power)
+*	Lead the deployment automation and smoke testing
+*  Design and lead implementation for re usable artifacts and frameworks for API and event driven integeration
+*	Coordinate with all the stakeholders  to agree on integration solution and work with team to drive it to completion
 
 Technologies:
 AWS Webservice, Openshift , Istio, Serverless, Streamset, IBM Datapower Gateway, REST based API, XML, XSLT,JSON, Spring Boot, Node.js,TypeScript, IBatis, Oracle Database 11g ,Spring 2.X, 3.X, IBM MQ, Apache Kafka, HBase, DynamoDB ElasticSearch, APIGEE, Gravitee.io, Splunk, Dynatrace, Jeager, Open API spec, Swagger, RAML, Open API specification, Enterprise service Bus, Ant, Maven	, Cloudformation, CDK, 
