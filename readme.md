@@ -3,13 +3,13 @@ As one who believes in technology as an enabler to address business opportunitie
 
 ---
 #### Professional Summary
-•	15+ years of experience in Software Solution Design, Development, and Testing
-•	Practitioner lever experience in software development life cycle, with both waterfall and agile (Scrum) methodologies, involving all the phases such as Requirement
+* 	15+ years of experience in Software Solution Design, Development, and Testing
+* 	Practitioner lever experience in software development life cycle, with both waterfall and agile (Scrum) methodologies, involving all the phases such as Requirement
         analysis, functional testing, project documentation, development, and maintenance of Software Applications using Object-Oriented n-tier architecture technologies.
-•	10+ years of effective experience in architecture, design and development of complex application integration solution using, REST APIs, event driven architecture
+* 	10+ years of effective experience in architecture, design and development of complex application integration solution using, REST APIs, event driven architecture
         streaming, SOAP Based web service with industry leading tools and technologies. 
-•	3+ years of hands-on experience building integration solution using  cloud technologies like Amazon Web Services, Openshift , Kubernetes, Docker
-•	In-depth familiarity with enterprise integration pattern, architecture standards and best practices used in integration project.
+* 	3+ years of hands-on experience building integration solution using  cloud technologies like Amazon Web Services, Openshift , Kubernetes, Docker
+*	In-depth familiarity with enterprise integration pattern, architecture standards and best practices used in integration project.
 •	Well versed with API security  and CI/DC automation
 •	In Depth experience in exposing data through web service with varied backend systems ranging from legacy system like AS400, Mainframe to modern protocols like SOAP 
         webservices ,API, noSQL and relation databases and messaging broker
