@@ -1,6 +1,7 @@
 #### Why you want me to work for you!!
 As one who believes in technology as an enabler to address business opportunities and challenges, I will like to develop software solutions to meet functional and non-functional need of business  in reasonable time and cost taking a proactive and fail fast approach and using good principals of software development. I am a good team player, individual contributor. I am also a good collaborator who never hesitate o reach out to peers within and outside immediate organization I like to lead with influence, ownership and commitment. I have penchant for learning and leveraging new tools and technologies, with test and learn philosophy, and like to have an eye for details and understanding of Big Picture I am a believer in servant leader ship, team work and thinks  best solutions comes from team and collaboration rather individual
 
+---
 
 
 #### Employment History
@@ -32,6 +33,7 @@ Tools:-
 
 
 Lead  SOA Integration Developer
+CSAA Insurance Group, a AAA Insurer
 12/2013 - 12/2014
 
 1.	Responsible for   Estimation, Analysis, Design, development, Deployment and testing of SOA services
