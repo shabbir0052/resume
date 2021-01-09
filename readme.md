@@ -34,9 +34,9 @@ As one who believes in technology as an enabler to address business opportunitie
 
 #### Employment History
 
-*Integeration Solution Architect*
-*CSAA Insurance Group, a AAA Insurer*
-*1/2015-current*
+*Integeration Solution Architect* \
+*CSAA Insurance Group, a AAA Insurer* \
+*1/2015-current* 
 
 *	Implementation lead for real-time integration for many small and big organization initiative  like Digital Transformation , commercial insurance  involving integration of all the major business system using API based and event driven integrations
 *	Work with  engineering, product management, and operations teams to design and implement next-generation high availability, scalable and observable microsevices based integration leveraging cloud base technologies
