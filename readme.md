@@ -2,6 +2,36 @@
 As one who believes in technology as an enabler to address business opportunities and challenges, I will like to develop software solutions to meet functional and non-functional need of business  in reasonable time and cost taking a proactive and fail fast approach and using good principals of software development. I am a good team player, individual contributor. I am also a good collaborator who never hesitate o reach out to peers within and outside immediate organization I like to lead with influence, ownership and commitment. I have penchant for learning and leveraging new tools and technologies, with test and learn philosophy, and like to have an eye for details and understanding of Big Picture I am a believer in servant leader ship, team work and thinks  best solutions comes from team and collaboration rather individual
 
 ---
+#### Professional Summary
+•	15+ years of experience in Software Solution Design, Development, and Testing
+•	Practitioner lever experience in software development life cycle, with both waterfall and agile (Scrum) methodologies, involving all the phases such as Requirement
+        analysis, functional testing, project documentation, development, and maintenance of Software Applications using Object-Oriented n-tier architecture technologies.
+•	10+ years of effective experience in architecture, design and development of complex application integration solution using, REST APIs, event driven architecture
+        streaming, SOAP Based web service with industry leading tools and technologies. 
+•	3+ years of hands-on experience building integration solution using  cloud technologies like Amazon Web Services, Openshift , Kubernetes, Docker
+•	In-depth familiarity with enterprise integration pattern, architecture standards and best practices used in integration project.
+•	Well versed with API security  and CI/DC automation
+•	In Depth experience in exposing data through web service with varied backend systems ranging from legacy system like AS400, Mainframe to modern protocols like SOAP 
+        webservices ,API, noSQL and relation databases and messaging broker
+•	Polyglot programming experience in Node, TypeScript, Java and Python
+•	In depth experience in implementing  event driven architecture  with simple event processing 
+•	In depth experience in Design First approach for APIs using open API spec like Swagger and RAML.
+•	Experience in prototyping with muliple API management solutions 
+•	Experience in building Solution which are testable with automated deployment using CI/CD pipeline
+•	5 Years of effective experience in implementing  Business Rule Management system using rule engines
+•	Practitioner level Experience in developing SOA solutions with enterprise service bus and Business process management platform leveraging  Process Modules, 
+        SCA modules and bindings, Mediation module, libraries, message handing, error handling framework, Human Tasks, BO, SDO, Business Rule, Policy Sets 
+•	2+ Years of effective experience in developing software solution using  .NET technologies 
+•	7+ Years of effective experience in developing software solution using Java/J2EE technologies  
+•	Well verse with  Software design pattern and object oriented principle and implemented them in real life project 
+•	Practitioner level experience with UML designing leveraging Use Case Diagrams, Class Diagrams, Sequence Diagrams and others
+•	Practitioner level experience on n-Tier architecture and relational database design including application system development 
+•	Have a good experience working in Global Delivery Model mode, collaborating with the team in different  time and geographical zone
+•	Working level knowledge if ITSM tools and processes like ServiceNow, CMDb, change and release management
+
+
+
+
 
 
 #### Employment History
