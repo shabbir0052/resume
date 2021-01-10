@@ -89,11 +89,11 @@ Tools:-
 *Congnizant Technology Solutions* \
 *4/2008 12/2013*
 
-  Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain \n
-  Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
+ Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain 
+ Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
    
-    *SOA Solutions Integration Architect | 01/2010-12/2013* \
-     > Responsible for  Estimation, Analysis, Design, development, Deployment and testing of SOA services
+  *SOA Solutions Integration Architect | 01/2010-12/2013* \
+     * Responsible for  Estimation, Analysis, Design, development, Deployment and testing of SOA services
      > Work closely with Solution Architects, Application teams and Infrastructure teams to define and implements solution for SOA services with architectural standards      
      > Develop enterprise integration services  leveraging  BPEL , Mediation flow, , Briefly persisted processes and other SOA integration technologies like, WSDL, HTTP, REST, JSON, JMS, MQ, J2EE JCA Adapters
 	 > Work with monitoring team to define and implement SOA Service monitoring and reporting
@@ -108,21 +108,19 @@ Tools:-
      > Trouble shoot production issues and  work with vendors and various stakeholders to implement fixes
      > Perform project Management activities like tracking, co-ordination, monitoring, reporting and Onsite-offshore coordination 
 
-   - Responsibilities related to Business Rule Management System involved
-     > Defining Business rule Architecture framework using FICO® Blaze Advisor® Decision Rules Management System 
-     > Estimation, Rule Analysis, Design, development, Deployment and testing of rules	
-     > Business rule harvesting and Knowledge Capture of existing , migration of  multiple rule projects to a single repository
-     > Cross platform integration (.Net and Java) of rules. Developed .NET and J2EE Services for integrating Rules and Legacy system e.g. AS400.   
-     > Automate deployment of rules, increasing the frequency of rule changes and deployment
-     > Socializing business rule approach with various LOBs to leverage rule approach in different applications
-     > Mentoring team members about Blaze Advisors and Business Rules. Presenting development approaches to team member
-     > Work with insurance industry standard like ACORD and IAA models
-     > Work with vendor to resolve product related issues
+    Responsibilities related to Business Rule Management System involved
+    * Defining Business rule Architecture framework using FICO® Blaze Advisor® Decision Rules Management System 
+    * Estimation, Rule Analysis, Design, development, Deployment and testing of rules	
+    * Business rule harvesting and Knowledge Capture of existing , migration of  multiple rule projects to a single repository
+    * Cross platform integration (.Net and Java) of rules. Developed .NET and J2EE Services for integrating Rules and Legacy system e.g. AS400.   
+    * Automate deployment of rules, increasing the frequency of rule changes and deployment
+    * Socializing business rule approach with various LOBs to leverage rule approach in different applications
+    * Mentoring team members about Blaze Advisors and Business Rules. Presenting development approaches to team member
+    * Work with insurance industry standard like ACORD and IAA models
+    * Work with vendor to resolve product related issues
 
-Technologies:
-WAS 6.1, XML, FairIsac Blaze 6.5/6.7 RMA, .Net 2.0, WCF, IIS 6.0
-Tools:-
-    Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005
+*Technologies*| Websphere Application Server 6.1, XML, FairIsac Blaze 6.5/6.7 RMA, .Net 2.0, WCF, IIS 6.0, Junit, C#, Visual Basic, Oracle , MS SQL
+*Tools*| Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005, XML Spy, SOAP UI
 
     
 ---
@@ -154,6 +152,9 @@ Tools:-
   * Conduction Proof of concept for various rules implementation initiative
   * Testing tool and testing framework for rules.
   * Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
+  
+*Technologies*| Weblogic 8.1, XML, Fico Blaze Advisor- 6.5/6.7 Rule Maintaince Application , Oracle PL/SQL, Sybase, Java/ J2EE (application layer), XML/ XSLT (presentation layer),Junit
+*Tools* |  XML Spy,  Microsoft office suites of Application, Eclipse IDE, TOAD IDE
 
 ---
 
@@ -170,12 +171,10 @@ Tools:-
 *  Certified Software Quality Analyst (CSQA)
 * Certification in Securities Market – Basic - By National Stock Exchange of India
 
-
-
-
+---
 **Education**
    * Master of Science - Chemical Engineering | Indian Institute of Science| 1999-2001| GPA - 3.8 
-   * Bachelor in Technology - Chemical Engineering | Laxminarayan Institute of Technology | 1994-1998| GPA - 3.8
+   * Bachelor in Technology - Chemical Engineering | Laxminarayan Institute of Technology | 1994-1998| GPA - 3.7
 
 
 Base Salary 160 K
