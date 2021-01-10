@@ -155,7 +155,7 @@ Tools:-
   * Testing tool and testing framework for rules.
   * Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
 
-
+---
 
 **Certifications**
 * AWS Solution Architect-Associate 
@@ -173,9 +173,9 @@ Tools:-
 
 
 
-GPA
- - 3.8 Master
-  - 3.7 bachelor
+**Education**
+   * Master of Science - Chemical Engineering | Indian Institute of Science| 1999-2001| GPA - 3.8 
+   * Bachelor in Technology - Chemical Engineering | Laxminarayan Institute of Technology | 1994-1998| GPA - 3.8
 
 
 Base Salary 160 K
