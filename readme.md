@@ -126,36 +126,37 @@ Tools:-
     Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005
 
     
+---
 
-Software Developer-Technical project Mgr
-Infosys Technologies
-3/2001 - 3/2008
+*Infosys Technologies* \
+*3/2001 - 3/2008*
+
 - Worked as consultant on behalf of Infosys Technologies Solution for its various clients in financian Domain, in various role
 
-Tech lead
-1.	Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
-2.	Creating generic reusable artifacts
-3.	Estimation for rule work. Also developed Estimation model for rule work
-4.	Prepared developer guide, coding checklists/standards, lesson learn during various rule initiatives, training , skill assessment 
-5.	Developing calculation API, façade for score models
-6.	Conduction Proof of concept for various rules implementation initiative
-7.	Testing tool and testing framework for rules.
-8.	Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
+	*Technical Project Manager| 3/2007-3/2008*
+	Work on  consultanting assignment on behalf of Infosys Technologies with following responsibilites
+	*  Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
+	*  Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
+	*  Manage estimations, requirements gathering, Analysis, Design and development for the project (s).
+	*  Worked on estimation model to asses the work effort quickly for RFP
+	*  Review RFP / RFI from the customers’ perspective 
+	*  Forecast and plan volumes, and resource requirements based on both volumes and technology
+	*  Identify, assess and mitigate risks
+	*  Liaise with the customer and handle the requirements, escalations, queries
+	*  Facilitate knowledge sharing and capture within and across teams
+	* Manage resourcing requirements for the onsite team , interview candidate and onboard resources
 
-As Technical Project Manager
-Work on  consultanting assignment on behalf of Infosys Technologies with following responsibilites
-1. Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
-2. Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
-3 Manage estimations, requirements gathering, Analysis, Design and development for the project (s).
-4. Worked on estimation model to asses the work effort quickly for RFP
-5. Review RFP / RFI from the customers’ perspective 
-6. Forecast and plan volumes, and resource requirements based on both volumes and technology
-7. Identify, assess and mitigate risks
-8  Liaise with the customer and handle the requirements, escalations, queries
-9. Facilitate knowledge sharing and capture within and across teams
-10 Manage resourcing requirements for the onsite team , interview candidate and onboard resources
+	*Tech lead | 3/3004-2/2007*
+	*	Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
+	*	Creating generic reusable artifacts
+	*	Estimation for rule work. Also developed Estimation model for rule work
+	*	Prepared developer guide, coding checklists/standards, lesson learn during various rule initiatives, training , skill assessment 
+	*	Developing calculation API, façade for score models
+	*	Conduction Proof of concept for various rules implementation initiative
+	*	Testing tool and testing framework for rules.
+	*	Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
 
-  
+
 
 Certifications
 TBD
