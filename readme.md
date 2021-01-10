@@ -145,15 +145,15 @@ Tools:-
   *  Facilitate knowledge sharing and capture within and across teams
   * Manage resourcing requirements for the onsite team , interview candidate and onboard resources
 
-*Tech lead | 3/3004-2/2007* \
-*	Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
-*	Creating generic reusable artifacts
-*	Estimation for rule work. Also developed Estimation model for rule work
-*	Prepared developer guide, coding checklists/standards, lesson learn during various rule initiatives, training , skill assessment 
-*	Developing calculation API, façade for score models
-*	Conduction Proof of concept for various rules implementation initiative
-*	Testing tool and testing framework for rules.
-*	Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
+  *Tech lead | 3/3004-2/2007* \
+  * Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
+  * Creating generic reusable artifacts
+  * Estimation for rule work. Also developed Estimation model for rule work
+  * Prepared developer guide, coding checklists/standards, lesson learn during various rule initiatives, training , skill assessment 
+  * Developing calculation API, façade for score models
+  * Conduction Proof of concept for various rules implementation initiative
+  * Testing tool and testing framework for rules.
+  * Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
 
 
 
