@@ -144,7 +144,7 @@ Tools:-
   *  Liaise with the customer and handle the requirements, escalations, queries
   *  Facilitate knowledge sharing and capture within and across teams
   * Manage resourcing requirements for the onsite team , interview candidate and onboard resources
-
+                                                                                                   
   *Tech lead | 3/3004-2/2007* \
   * Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
   * Creating generic reusable artifacts
