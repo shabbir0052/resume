@@ -86,14 +86,13 @@ Tools:-
  WebSphere Integration Developer 7.X, SVN, XML Spy, Rational Application Developer, SOAP UI, 
 
 
-Solution Architect
-CTS
-4/2008 12/2013
+*Congnizant Technology Solutions* \
+*4/2008 12/2013*
 
-A Combined resume for Cognizant experience
-- Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain
-   - Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
-   - Responsibilities related to  SOA Solutions Integration Architect involved
+  Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain \n
+  Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
+   
+    *SOA Solutions Integration Architect | 01/2010-12/2013* \
      > Responsible for  Estimation, Analysis, Design, development, Deployment and testing of SOA services
      > Work closely with Solution Architects, Application teams and Infrastructure teams to define and implements solution for SOA services with architectural standards      
      > Develop enterprise integration services  leveraging  BPEL , Mediation flow, , Briefly persisted processes and other SOA integration technologies like, WSDL, HTTP, REST, JSON, JMS, MQ, J2EE JCA Adapters
@@ -131,9 +130,9 @@ Tools:-
 *Infosys Technologies* \
 *3/2001 - 3/2008*
 
-- Worked as consultant on behalf of Infosys Technologies Solution for its various clients in financian Domain, in various role
+ Worked as consultant on behalf of Infosys Technologies Solution for its various clients in financian Domain, in various role
 
-	*Technical Project Manager| 3/2007-3/2008*
+	*Technical Project Manager| 3/2007-3/2008* \
 	Work on  consultanting assignment on behalf of Infosys Technologies with following responsibilites
 	*  Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
 	*  Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
@@ -146,7 +145,7 @@ Tools:-
 	*  Facilitate knowledge sharing and capture within and across teams
 	* Manage resourcing requirements for the onsite team , interview candidate and onboard resources
 
-	*Tech lead | 3/3004-2/2007*
+	*Tech lead | 3/3004-2/2007* \
 	*	Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
 	*	Creating generic reusable artifacts
 	*	Estimation for rule work. Also developed Estimation model for rule work
