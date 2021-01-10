@@ -143,7 +143,7 @@ Tools:-
   *  Identify, assess and mitigate risks
   *  Liaise with the customer and handle the requirements, escalations, queries
   *  Facilitate knowledge sharing and capture within and across teams
-  * Manage resourcing requirements for the onsite team , interview candidate and onboard resources
+  *  Manage resourcing requirements for the onsite team , interview candidate and onboard resources \
                                                                                                    
   *Tech lead | 3/3004-2/2007* \
   * Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
@@ -157,8 +157,19 @@ Tools:-
 
 
 
-Certifications
-TBD
+**Certifications**
+* AWS Solution Architect-Associate 
+* IBM Certified Integration Developer -Business Process Manager Advance 8.0
+* IBM Certified Solution Implementer – Websphere Datapower V5.0
+* Sun Certified Java Programmer for Java 2 Platform 1.4
+* Certification in Java 6 – Brainbench
+* Web Services Engineering-BrainBench
+* 70-536 Microsoft .NET Framework, Application Development Foundation
+* Certified Scrum Master - Scrum Alliance.
+* Certification in RDBMS Concepts -Brainbench
+*  Certified Software Quality Analyst (CSQA)
+* Certification in Securities Market – Basic - By National Stock Exchange of India
+
 
 
 
