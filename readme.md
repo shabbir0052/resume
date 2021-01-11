@@ -34,9 +34,9 @@ As one who believes in technology as an enabler to address business opportunitie
 
 #### Employment History
 
-*Integeration Solution Architect* \
-*CSAA Insurance Group, a AAA Insurer* \
-*1/2015-current* 
+***Integeration Solution Architect*** \
+***CSAA Insurance Group, a AAA Insurer*** \
+***1/2015-current*** 
 
 *	Implementation lead for real-time integration for many small and big organization initiative  like Digital Transformation , commercial insurance  involving integration of all the major business system using API based and event driven integrations
 *	Work with  engineering, product management, and operations teams to design and implement next-generation high availability, scalable and observable microsevices based integration leveraging cloud base technologies
@@ -53,10 +53,10 @@ As one who believes in technology as an enabler to address business opportunitie
 *  Design and lead implementation for re usable artifacts and frameworks for API and event driven integeration
 *	Coordinate with all the stakeholders  to agree on integration solution and work with team to drive it to completion
 
-Technologies:
+*Technologies*: 
 AWS Webservice, Openshift , Istio, Serverless, Streamset, IBM Datapower Gateway, REST based API, XML, XSLT,JSON, Spring Boot, Node.js,TypeScript, IBatis, Oracle Database 11g ,Spring 2.X, 3.X, IBM MQ, Apache Kafka, HBase, DynamoDB ElasticSearch, APIGEE, Gravitee.io, Splunk, Dynatrace, Jeager, Open API spec, Swagger, RAML, Open API specification, Enterprise service Bus, Ant, Maven	, Cloudformation, CDK, 
 DyanamoDB, NoSQL, SQS, SNS, CI/CD, AWS Codepipeline, Apache Camel, Java Core, JEE Technologies, Microservices
-Tools:-
+*Tools*: 
  Eclipse, GIT, XML Spy, SOAP UI, Postman, Confluence, Jira, Jenkins, 
 
 
@@ -85,30 +85,30 @@ Technologies:
 Tools:-
  WebSphere Integration Developer 7.X, SVN, XML Spy, Rational Application Developer, SOAP UI, 
 
-
-*Congnizant Technology Solutions* \
-*4/2008 12/2013*
+-----
+***Congnizant Technology Solutions*** \
+***4/2008 12/2013***
 
  Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain 
  Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
    
   *SOA Solutions Integration Architect | 01/2010-12/2013* \
-     * Responsible for  Estimation, Analysis, Design, development, Deployment and testing of SOA services
-     > Work closely with Solution Architects, Application teams and Infrastructure teams to define and implements solution for SOA services with architectural standards      
-     > Develop enterprise integration services  leveraging  BPEL , Mediation flow, , Briefly persisted processes and other SOA integration technologies like, WSDL, HTTP, REST, JSON, JMS, MQ, J2EE JCA Adapters
-	 > Work with monitoring team to define and implement SOA Service monitoring and reporting
-     > Develop integrations with AS400/SIS, JMS/MQ, JDBC, .NET/Java web services, and REST services using enterprise integeration pattern
-     > Develop and maintain spring base Web Services for utilities function (e.g. Enterprise Logging. Batch Control Service, File transfer services, Generating unique Correlation ids   etc.)
-     > Developed and configured IBM DataPower as an ESB and security device, integrating various backend services.  Developed Web proxy, Multi-protocol gateway, XML firewalls using xml and, XSL transform. Exposed JSON/REST services. 
-     > Work closely with change, release and problem management and follow the ITIL processes
-     > Conduct POCs for reference architecture and various integration scenarios
-     > Training/Ramping up team members 
-     > Develop and Maintain Service  Design and Specifications , Interface Mapping and service Usage Document
-     > Perform design and code review for standards and code quality.
-     > Trouble shoot production issues and  work with vendors and various stakeholders to implement fixes
-     > Perform project Management activities like tracking, co-ordination, monitoring, reporting and Onsite-offshore coordination 
+      * Responsible for  Estimation, Analysis, Design, development, Deployment and testing of SOA services
+      * Work closely with Solution Architects, Application teams and Infrastructure teams to define and implements solution for SOA services with architectural standards      
+      * Develop enterprise integration services  leveraging  BPEL , Mediation flow, , Briefly persisted processes and other SOA integration technologies like, WSDL, HTTP, REST, JSON, JMS, MQ, J2EE JCA Adapters
+      * Work with monitoring team to define and implement SOA Service monitoring and reporting
+      * Develop integrations with AS400/SIS, JMS/MQ, JDBC, .NET/Java web services, and REST services using enterprise integeration pattern
+      * Develop and maintain spring base Web Services for utilities function (e.g. Enterprise Logging. Batch Control Service, File transfer services, Generating unique Correlation ids   etc.)
+      * Developed and configured IBM DataPower as an ESB and security device, integrating various backend services.  Developed Web proxy, Multi-protocol gateway, XML firewalls using xml and, XSL transform. Exposed JSON/REST services. 
+      * Work closely with change, release and problem management and follow the ITIL processes
+      * Conduct POCs for reference architecture and various integration scenarios
+      *  Training/Ramping up team members 
+      *  Develop and Maintain Service  Design and Specifications , Interface Mapping and service Usage Document
+      *  Perform design and code review for standards and code quality.
+      * Trouble shoot production issues and  work with vendors and various stakeholders to implement fixes
+      * Perform project Management activities like tracking, co-ordination, monitoring, reporting and Onsite-offshore coordination 
 
-    Responsibilities related to Business Rule Management System involved
+   *Business Rule Management Architect | 4/2008-12/2009* 
     * Defining Business rule Architecture framework using FICO® Blaze Advisor® Decision Rules Management System 
     * Estimation, Rule Analysis, Design, development, Deployment and testing of rules	
     * Business rule harvesting and Knowledge Capture of existing , migration of  multiple rule projects to a single repository
@@ -125,8 +125,8 @@ Tools:-
     
 ---
 
-*Infosys Technologies* \
-*3/2001 - 3/2008*
+***Infosys Technologies*** \
+***3/2001 - 3/2008***
 
  Worked as consultant on behalf of Infosys Technologies Solution for its various clients in financian Domain, in various role
 
