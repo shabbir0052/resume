@@ -56,13 +56,14 @@ As one who believes in technology as an enabler to address business opportunitie
 *Technologies*: 
 AWS Webservice, Openshift , Istio, Serverless, Streamset, IBM Datapower Gateway, REST based API, XML, XSLT,JSON, Spring Boot, Node.js,TypeScript, IBatis, Oracle Database 11g ,Spring 2.X, 3.X, IBM MQ, Apache Kafka, HBase, DynamoDB ElasticSearch, APIGEE, Gravitee.io, Splunk, Dynatrace, Jeager, Open API spec, Swagger, RAML, Open API specification, Enterprise service Bus, Ant, Maven	, Cloudformation, CDK, 
 DyanamoDB, NoSQL, SQS, SNS, CI/CD, AWS Codepipeline, Apache Camel, Java Core, JEE Technologies, Microservices
+
 *Tools*: 
  Eclipse, GIT, XML Spy, SOAP UI, Postman, Confluence, Jira, Jenkins, 
 
 
-Lead  SOA Integration Developer \
+***Lead  SOA Integration Developer \
 CSAA Insurance Group, a AAA Insurer \
-12/2013 - 12/2014
+12/2013 - 12/2014***
 
 1.	Responsible for   Estimation, Analysis, Design, development, Deployment and testing of SOA services
 2.	Work closely with Solution Architects, Providers and Infrastructure teams to define and implements solution for SOA services with architectural standards 
@@ -80,14 +81,15 @@ CSAA Insurance Group, a AAA Insurer \
 14.	Trouble shoot production issues and  work with vendors and various stakeholders to implement fixes
 15.	Perform project Management activities like tracking, co-ordination, monitoring, reporting and Onsite-offshore coordination 
 
-Technologies:
+*Technologies* : 
   WebSphere Application Server 7.X, WebSphere process server 7.x, XSLT, IBM DataPower , IBatis, Oracle Database 11g ,Spring 2.X, Regular Expression
-Tools:-
+  
+*Tools* : 
  WebSphere Integration Developer 7.X, SVN, XML Spy, Rational Application Developer, SOAP UI, 
 
 -----
 ***Congnizant Technology Solutions*** \
-***4/2008 12/2013***
+***4/2008 - 12/2013***
 
  Worked as consultant on behalf of Cognizant Technologies Solution for its various clients in Insurance Domain 
  Consulting assignment involved helping clients with solutioning, designing and implementation  SOA Solutions for integrating applications, Architect and lead for implementing Business Rule Management System 
@@ -119,8 +121,9 @@ Tools:-
     * Work with insurance industry standard like ACORD and IAA models
     * Work with vendor to resolve product related issues
 
-*Technologies*| Websphere Application Server 6.1, XML, FairIsac Blaze 6.5/6.7 RMA, .Net 2.0, WCF, IIS 6.0, Junit, C#, Visual Basic, Oracle , MS SQL
-*Tools*| Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005, XML Spy, SOAP UI
+*Technologies* : Websphere Application Server 6.1, XML, FairIsac Blaze 6.5/6.7 RMA, .Net 2.0, WCF, IIS 6.0, Junit, C#, Visual Basic, Oracle , MS SQL
+
+*Tools*:  Microsoft Visio, Ration Software Architect, Blaze IDE, CVS, ClearCase, Visual Studio 2010/2008/2005, XML Spy, SOAP UI
 
     
 ---
@@ -154,8 +157,9 @@ Tools:-
   * Testing tool and testing framework for rules.
   * Development work - Writing rules in Blaze, Integrating the rule set into ruleflows , creating Rule maintenance application
   
-*Technologies*| Weblogic 8.1, XML, Fico Blaze Advisor- 6.5/6.7 Rule Maintaince Application , Oracle PL/SQL, Sybase, Java/ J2EE (application layer), XML/ XSLT (presentation layer),Junit
-*Tools* |  XML Spy,  Microsoft office suites of Application, Eclipse IDE, TOAD IDE
+*Technologies* : Weblogic 8.1, XML, Fico Blaze Advisor- 6.5/6.7 Rule Maintaince Application , Oracle PL/SQL, Sybase, Java/ J2EE (application layer), XML/ XSLT (presentation layer),Junit
+
+*Tools* :   XML Spy,  Microsoft office suites of Application, Eclipse IDE, TOAD IDE
 
 ---
 
