@@ -130,19 +130,19 @@ Tools:-
 
  Worked as consultant on behalf of Infosys Technologies Solution for its various clients in financian Domain, in various role
 
-  *Technical Project Manager| 3/2007-3/2008* \
+   *Technical Project Manager| 3/2007-3/2008*  
+   *  Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
+   *  Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
+   *  Manage estimations, requirements gathering, Analysis, Design and development for the project (s).
+   *  Worked on estimation model to asses the work effort quickly for RFP
+   *  Review RFP / RFI from the customers’ perspective 
+   *  Forecast and plan volumes, and resource requirements based on both volumes and technology
+   *  Identify, assess and mitigate risks
+   *  Liaise with the customer and handle the requirements, escalations, queries
+   *  Facilitate knowledge sharing and capture within and across teams
+   *  Manage resourcing requirements for the onsite team , interview candidate and onboard resources 
   
-  *  Reponsible for delivery of assinged projects related to implementation Business Rule Mangement System on client site  using global delivery model.
-  *  Ensure compliance with respect to internal processes – quality assurance standards, quality tools and configuration management 
-  *  Manage estimations, requirements gathering, Analysis, Design and development for the project (s).
-  *  Worked on estimation model to asses the work effort quickly for RFP
-  *  Review RFP / RFI from the customers’ perspective 
-  *  Forecast and plan volumes, and resource requirements based on both volumes and technology
-  *  Identify, assess and mitigate risks
-  *  Liaise with the customer and handle the requirements, escalations, queries
-  *  Facilitate knowledge sharing and capture within and across teams
-  *  Manage resourcing requirements for the onsite team , interview candidate and onboard resources \
-  ^                                                                                                 
+                                                                                                   
   *Tech lead | 3/3004-2/2007* 
   
   * Defining Architecture framework in FICO® Blaze Advisor® Decision Rules Management System 
